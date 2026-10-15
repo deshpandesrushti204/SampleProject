@@ -1,0 +1,6 @@
+{
+  "name": "ResumeBuilder - Engineering Project",
+  "description": "A modern web-based application for creating professional resumes with real-time preview, multiple ATS-friendly templates, completeness score, and instant PDF download.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
